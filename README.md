@@ -1,4 +1,4 @@
-# practice-reactive-programming
+# Reactive Programming
 Using YouTube videos, online courses and free content in the internet, I'm learning on how we can program in a reactive way with Java 8+.
 
 ## What is reactive programming in a few words?
